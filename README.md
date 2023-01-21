@@ -21,7 +21,6 @@ DEPENDENCIES: INCLUDED
 
 **MODELING AGENCY A**
 ![Header](https://huggingface.co/wavymulder/modelshoot/resolve/main/images/page1.jpg)
-[*CKPT DOWNLOAD LINK*](https://huggingface.co/wavymulder/modelshoot/resolve/main/modelshoot-1.0.ckpt)
 
 Use `modelshoot style` in your prompt (I recommend at the start)
 
